@@ -46,6 +46,17 @@ And after installation, for using the python script inside virtual enviroment, r
 * Execute_Part3.bat
 ```
 
+## Data Research and Integrity analysis
+
+The Data research and integrity analysis texts can be found inside 'documents' folder, respectively
+named as:
+```
+Lucas_Rocha_Part2_Answers.txt
+```
+```
+Lucas_Rocha_Part3_Answers.txt
+```
+
 ## Author
 
 * **Lucas Rocha** - *Github Profile Link* - [Gitrocha](https://github.com/Gitrocha)
