@@ -1,0 +1,21 @@
+ ------------------------ --------------------------------- 
+
+The file "Argentina well data test 2019.csv" contains a sample of well attribute data for Argentina wells. 
+
+QUESTION: What issues can you find with the data that would need to be addressed to ensure the integrity 
+of the data ahead of loading this into a database? 
+
+ANSWER: If aggregating data from more than one source or if the values has been manually updated by people,
+it's importante to certify that all values are consistent with the database datatypes expected. Also, it's
+important to clean the data fields and remove duplicates.
+
+        For example, The field 'well_number' has mixed types (string and integers) and should be treated.
+If it's a large dataset, a good approach would be to create a unique integer index, and an auxiliary dictionary
+table to optimize queries.
+
+        In the case of number fields such as latitude, longitude and depth it's also important to verify if
+it contains only floats and integers and apply some standardization rule in number of digits and decimals
+before insert into a database.
+
+        For dates and texts we should ensure that only valid date formats and right encoded characters are
+being inserted into the database.

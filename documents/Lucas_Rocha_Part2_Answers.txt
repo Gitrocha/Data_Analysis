@@ -1,0 +1,20 @@
+ ------------------------ --------------------------------- 
+
+contract information for the Block awarded in Round 01 named as CNH-R01-L01-A7 
+
+
+ITEM 5:	What company operates this block? 
+ANSWER: Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum 
+
+ITEM 6:	What is the area of this block in km2? 
+ANSWER: Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum 
+
+ITEM 7:	What are the signature date and expiry date associated with this block? 
+ANSWER: Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum 
+
+ITEM 8:	Find 3 Articles relevant to the operating company with respect to this block. 
+ANSWER: Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum 
+
+ITEM 9:	What is the name of the discovery (field) being developed on this block? 
+ANSWER: Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum 
+
