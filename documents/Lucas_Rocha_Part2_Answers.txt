@@ -1,20 +1,25 @@
- ------------------------ --------------------------------- 
+---------------------------------------------------------------------------------------------------------------------- 
 
-contract information for the Block awarded in Round 01 named as CNH-R01-L01-A7 
+                 Information about the Block awarded named as CNH-R01-L01-A7 
 
 
 ITEM 5:	What company operates this block? 
-ANSWER: Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum 
+ANSWER: The block is operated by Talos Energy Offshore Mexico 7 in a shared production mode which 
+includes Sierra Oil and Gas and Premier Oil.
 
 ITEM 6:	What is the area of this block in km2? 
-ANSWER: Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum 
+ANSWER: The surface area is around 464.799 km2, as described in file CNH-R01-L01-A7-2015.pdf (Page 76, Attachment 1)
 
 ITEM 7:	What are the signature date and expiry date associated with this block? 
-ANSWER: Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum 
+ANSWER: The document was signed on November 17, 2015. The expiry date of exploration will be 30 years
+after the signature date, so it will expire by November 17, 2045. 
 
 ITEM 8:	Find 3 Articles relevant to the operating company with respect to this block. 
-ANSWER: Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum 
+ANSWER: * 1) https://www.wsj.com/articles/mexico-awards-first-oil-block-in-historic-auction-1436978568 
+        * 2) https://www.oedigital.com/news/451293-mexico-s-round-one-phase-two-a-success 
+        * 3) https://www.nsenergybusiness.com/projects/zama-oil-field-gulf-of-mexico/ 
 
 ITEM 9:	What is the name of the discovery (field) being developed on this block? 
-ANSWER: Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum 
+ANSWER: It's called Zama Field, and is located near Tabasco City in the Gulf of Mexico. 
 
+----------------------------------------------------------------------------------------------------------------------
