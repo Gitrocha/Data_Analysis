@@ -13,6 +13,7 @@ What things you need to use the application
 ```
 Recent Windows Operational Systems
 Python 3+
+Chrome Web Driver
 ```
 
 ### Installing the dependencies
