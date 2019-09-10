@@ -46,7 +46,7 @@ df_final = df_final.astype({'Production_End': int,
 df_final['Comments'].replace(np.nan, 'NaN', regex=True, inplace=True)
 df_final['Production_Years'].replace(np.nan, 'NaN', regex=True, inplace=True)
 df_final['Top Speed_Text'].replace(np.nan, 'NaN', regex=True, inplace=True)
-df_final['Top_Speed_KMH_1DEC'].replace('NaN', 0, regex=True, inplace=True)
+df_final['Top_Speed_KMH_1DEC'].replace('NaN', '', regex=True, inplace=True)
 
 print('  - Assumptions of missing years: Start, End = 2009, 2019')
 print('  - Assumptions of missing speed info: Top speed = 0')
